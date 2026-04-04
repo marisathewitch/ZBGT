@@ -563,3 +563,4 @@ zbgt.material.green_fuchsite=Зеленый фуксит
 zbgt.material.red_fuchsite=Красный фуксит
 zbgt.material.circuit_compound_mk_3=Компаунд для микросхем модель 3
 zbgt.material.magneto_resonance=Магнито-резонанс
+zbgt.machine.quad_ebf.tooltip=Та же форма, что и у квадро-EBF, а потому имеет 4 присущие ей параллели!
